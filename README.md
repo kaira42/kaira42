@@ -28,13 +28,6 @@ Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirmeye ilg
 - Temiz kod yazma prensipleri
 - Veritabanı yönetimi
 
-## GitHub İstatistiklerim
-
-<div align="center">
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kaira42&theme=calm)  
-
-</div>
 
 ## İletişim
 
