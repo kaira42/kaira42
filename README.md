@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kaira42/kaira42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba! 👋
 
-Here are some ideas to get you started:
+*Bilgisayar Mühendisliği Öğrencisi*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=kaira42&color=blue&style=flat-square)
+
+</div>
+
+## Ben Kimim?
+
+Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirmeye ilgi duyuyor ve her gün yeni şeyler öğrenmeye çalışıyorum. Şu anda temel teknolojileri öğrenmeye ve kendimi geliştirmeye odaklanıyorum.
+
+## Çalıştığım Teknolojiler
+
+```
+• Temel: Python, Java, C++
+• Web: HTML, CSS, JavaScript
+• Veritabanı: MySQL
+• Araçlar: Git, VS Code
+```
+
+## Odak Noktalarım 🎯
+
+- Veri yapıları ve algoritmalar
+- Web teknolojileri
+- Temiz kod yazma prensipleri
+- Veritabanı yönetimi
+
+## GitHub İstatistiklerim
+
+<div align="center">
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kaira42&theme=calm)  
+
+</div>
+
+## İletişim
+
+<div align="center">
+
+[GitHub](https://github.com/kaira42) • [LinkedIn](#)
+
+</div>
+
+---
+<div align="center">
+
+*"Öğrenmenin sonu yok."* ✨
+
+</div>
